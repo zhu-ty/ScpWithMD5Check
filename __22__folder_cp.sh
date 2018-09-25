@@ -23,6 +23,6 @@ do
         ssh $1 "DecoderGPU $i 0 $4"
     fi
     ./__11__scp.sh $1 "${i%.*}.h264" $3/${filename%.*}.h264
-    ffmpeg -i $3/${filename%.*}.h264 -vcodec copy $3/${filename%.*}.mp4
+    ffmpeg -y -i $3/${filename%.*}.h264 -vcodec copy $3/${filename%.*}.mp4
     rm $3/${filename%.*}.h264
 done
