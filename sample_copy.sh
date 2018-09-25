@@ -1,2 +1,2 @@
-sh __xx__copy2server.sh primary_school_1 primary_school_1
-sh __xx__copy2server.sh primary_school_2 primary_school_2
+sh __33__copy2server.sh primaryschool_20180914_1 20
+sh __33__copy2server.sh primaryschool_20180914_2 20
