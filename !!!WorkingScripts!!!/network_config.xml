@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<serverAmount>2</serverAmount>
+<server_0>
+  <_>
+    <ip>"10.8.5.10"</ip>
+    <port>"54321"</port>
+    <box_0><_><cameraAmount>10</cameraAmount></_></box_0>
+  </_>
+</server_0>
+<server_1>
+  <_>
+    <ip>"10.8.5.12"</ip>
+    <port>"54321"</port>
+    <box_0><_><cameraAmount>10</cameraAmount></_></box_0>
+  </_>
+</server_1>
+</opencv_storage>

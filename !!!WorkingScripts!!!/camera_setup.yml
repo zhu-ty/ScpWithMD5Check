@@ -1,0 +1,89 @@
+%YAML:1.0
+---
+CamNum: 20
+Dir: "E:/data/giga/network4"
+CamType: "PointGrey_u3"
+BufferType: "JPEG"
+FrameRate: 12
+BufferScale: 1.
+CamParams:
+   -
+      serialnum: "18311943"
+      scale: 1.2299999594688416e-01
+      isref: 0
+   -
+      serialnum: "18312068"
+      scale: 1.2799999117851257e-01
+      isref: 0
+   -
+      serialnum: "18311955"
+      scale: 1.2499999254941940e-01
+      isref: 0
+   -
+      serialnum: "17285688"
+      scale: 1.2300000339746475e-01
+      isref: 0
+   -
+      serialnum: "18311941"
+      scale: 1.2799999117851257e-01
+      isref: 0
+   -
+      serialnum: "18312091"
+      scale: 1.2799999117851257e-01
+      isref: 0
+   -
+      serialnum: "18312063"
+      scale: 2.3999999463558197e-01
+      isref: 0
+   -
+      serialnum: "18311950"
+      scale: 1.8599998950958252e-01
+      isref: 0
+   -
+      serialnum: "18312090"
+      scale: 1.2799999117851257e-01
+      isref: 0
+   -
+      serialnum: "18312092"
+      scale: 1.8500000238418579e-01
+      isref: 0
+   -
+      serialnum: "18312066"
+      scale: 1.5399998426437378e-01
+      isref: 1
+   -
+      serialnum: "18311951"
+      scale: 1.2799999117851257e-01
+      isref: 0
+   -
+      serialnum: "18312086"
+      scale: 1.2900000810623169e-01
+      isref: 0
+   -
+      serialnum: "18311944"
+      scale: 1.2999999523162842e-01
+      isref: 0
+   -
+      serialnum: "17285684"
+      scale: 1.2399999797344208e-01
+      isref: 0
+   -
+      serialnum: "18311946"
+      scale: 1.2699998915195465e-01
+      isref: 0
+   -
+      serialnum: "18311959"
+      scale: 1.2499999254941940e-01
+      isref: 0
+   -
+      serialnum: "18311948"
+      scale: 1.2300000339746475e-01
+      isref: 0
+   -
+      serialnum: "18311960"
+      scale: 1.3199999928474426e-01
+      isref: 0
+   -
+      serialnum: "18312062"
+      scale: 1.0000000149011612e-01
+      isref: 0

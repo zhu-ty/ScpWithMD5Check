@@ -1,0 +1,83 @@
+%YAML:1.0
+---
+CamPositions:
+   -
+      serialnum: "18312092"
+      row: 1
+      col: 2
+   -
+      serialnum: "18311946"
+      row: 2
+      col: 1
+   -
+      serialnum: "18312090"
+      row: 1
+      col: 1
+   -
+      serialnum: "18311955"
+      row: 0
+      col: 2
+   -
+      serialnum: "18312068"
+      row: 0
+      col: 1
+   -
+      serialnum: "18311943"
+      row: 0
+      col: 0
+   -
+      serialnum: "18311959"
+      row: 2
+      col: 2
+   -
+      serialnum: "18311948"
+      row: 2
+      col: 4
+   -
+      serialnum: "18312086"
+      row: 1
+      col: 5
+   -
+      serialnum: "18311960"
+      row: 2
+      col: 5
+   -
+      serialnum: "18311951"
+      row: 1
+      col: 4
+   -
+      serialnum: "18311941"
+      row: 0
+      col: 4
+   -
+      serialnum: "18312062"
+      row: 2
+      col: 6
+   -
+      serialnum: "18311944"
+      row: 1
+      col: 6
+   -
+      serialnum: "18312063"
+      row: 0
+      col: 6
+   -
+      serialnum: "17285684"
+      row: 2
+      col: 0
+   -
+      serialnum: "18311950"
+      row: 1
+      col: 0
+   -
+      serialnum: "18312091"
+      row: 0
+      col: 5
+   -
+      serialnum: "17285688"
+      row: 0
+      col: 3
+   -
+      serialnum: "18312066"
+      row: 1
+      col: 3
